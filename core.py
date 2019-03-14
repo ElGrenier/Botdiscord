@@ -50,6 +50,5 @@ async def ping(ctx):
     await ctx.send("message")
 
 
-await bot.change_presence(game=discord.Game(name="le nom du jeu")
 
 bot.run(config.TOKEN)
