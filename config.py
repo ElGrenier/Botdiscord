@@ -1,1 +1,1 @@
-TOKEN = "NTUxMzg0NDU3OTM2ODk2MDIx.D2RSyg.YfhhtCRM2z1S5H7TkpiINwZrkjc"
+TOKEN = "Hola Keta ! Le token c'est pas pour tout le monde !"
